@@ -1,0 +1,17 @@
+{
+  "name": "blockcodes",
+  "version": "1.0.0",
+  "description": "things writing block codes in that one class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dustin Hershman",
+  "license": "ISC",
+  "dependencies": {
+    "ethereumjs-testrpc": "^6.0.3",
+    "solc": "^0.4.19",
+    "web3": "^0.20.1"
+  }
+}
